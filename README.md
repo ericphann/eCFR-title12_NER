@@ -13,7 +13,7 @@ Group 6's final project for DSBA 6188.
 - __corpuses folder__ (configs, .spaCy, etc. for each pipeline)
 - __data folder__ (few-shot, manual, and unlabeled data)
 - __models folder__ (best/last model for each type)
-- __milestones 2 & 3__ folder (prior deliverables)
+- __milestones 2 & 3 folder__ (prior deliverables)
 - __spacy-llm folder__ (stuff to make few-shot annotations)
 - __ecfr_ner_models.ipynb__ (step-by-step Colab notebook)
 - __write-up.pdf__ (executive summary; conclusions)
