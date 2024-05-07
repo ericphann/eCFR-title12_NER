@@ -19,3 +19,7 @@ Group 6's final project for DSBA 6188.
 - __write-up.pdf__ (executive summary; conclusions)
 - __requirements.txt__ (for reproducibility)
 
+## Dateset
+- Domain: Banking compliance and risk
+- Possible applications: NER, semantic search, classification, policy 
+- eCFR Title 12(https://github.com/ericphann/dsba6188-group6-project/tree/main/data)
