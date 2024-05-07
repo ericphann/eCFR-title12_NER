@@ -39,3 +39,8 @@ Group 6's final project for DSBA 6188.
 - mixed-model
 
 ## Future Work
+- Refine Annotation Guidelines
+- Expand Dataset
+- Fine-tuning with Prodigy and SpaCy
+- Chunking Data
+- Data Privacy and Security
