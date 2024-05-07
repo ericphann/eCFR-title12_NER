@@ -32,3 +32,10 @@ Group 6's final project for DSBA 6188.
 - Review Labels and Refine Annotation Guidelines
 - Create a Final Test Dataset
 - Model Development
+
+# Models
+- few-shot-model
+- manual-model
+- mixed-model
+
+# Future Work
