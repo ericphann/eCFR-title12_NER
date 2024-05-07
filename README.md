@@ -33,9 +33,9 @@ Group 6's final project for DSBA 6188.
 - Create a Final Test Dataset
 - Model Development
 
-# Models
+## Models
 - few-shot-model
 - manual-model
 - mixed-model
 
-# Future Work
+## Future Work
