@@ -1,0 +1,13 @@
+- text: "A Bank's board of directors may not declare or pay a dividend based on projected or anticipated earnings and may not declare or pay a dividend if the par value of the Bank's stock is impaired or is projected to become impaired after paying such dividend."
+  entities:
+    REGULATOR: ['board of directors']
+    ACT: []
+    INSTITUTION: ['Bank']
+    TERM: ['dividend', 'earnings', 'par value', 'stock']
+
+- text: "The Board of Governors of the Federal Reserve System (Board) has issued this subpart pursuant to the Federal Reserve Act, sections 11 (i) and (j) (12 U.S.C. 248 (i) and (j)), section 13 (12 U.S.C. 342), section 16 (12 U.S.C. 248(o) and 360), and section 19(f) (12 U.S.C. 464); the Expedited Funds Availability Act (12 U.S.C. 4001 et seq.); the Check Clearing for the 21st Century Act (12 U.S.C. 5001-5018) and other laws. This subpart governs the collection of checks and other cash and noncash items and the handling of returned checks by Federal Reserve Banks. Its purpose is to provide rules for collecting and returning items and settling balances."
+  entities:
+    REGULATOR: ['The Board of Governors', 'Federal Reserve System', 'Board']
+    ACT: ['Federal Reserve Act', 'Expedited Funds Availability Act', 'Check Clearing for the 21st Century Act']
+    INSTITUTION: ['Federal Reserve Banks']
+    TERM: ['checks', 'cash', 'noncash', 'balances']
