@@ -19,7 +19,7 @@ Group 6's final project for DSBA 6188.
 - __write-up.pdf__ (executive summary; conclusions)
 - __requirements.txt__ (for reproducibility)
 
-## Dateset
+## Dataset
 - Domain: Banking compliance and risk
 - Possible applications: NER, semantic search, classification, policy 
 - eCFR Title 12 (https://github.com/ericphann/dsba6188-group6-project/tree/main/data)
@@ -28,9 +28,9 @@ Group 6's final project for DSBA 6188.
 - Generate Entity Labels, Definitions, and Few-shot Data
 - Train/Test a Model Using ecfr-few-shot.jsonl
 - Compile Metrics and Review
-- Label ecfr-200-unlabeled.jsonl
+- Label 100 examples from ecfr-unlabeled.jsonl
 - Review Labels and Refine Annotation Guidelines
-- Create a Final Test Dataset
+- Create a Final Test Dataset (ecfr-manual.jsonl)
 - Model Development
 
 ## Models
