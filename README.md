@@ -1,13 +1,15 @@
 # ⚖️ NER Models - eCFR Title 12 🏦
 
-Group 6's final project for DSBA 6188.
+Fine-tuned NER models for banking and regulation texts, trained on eCFR Title 12 using manual and few-shot (GPT 3.5 v3) annotations.  
 
-## Group Members
-- Sydney Kelly
-- Eric Phann
-- Jake Stallard
-- Kristen Zhang
-- Yaxin Zhao
+Please see the [executive write-up](https://github.com/ericphann/eCFR-title12_NER/blob/main/write-up.pdf) for metrics and process details.
+
+## Team
+- Eric Phann (data, programming, modeling)
+- Kristen Zhang (annotation, reporting, documentation)
+- Yaxin Zhao (annotation, research, procedure)
+- Sydney Kelly (annotation, future considerations)
+- Jake Stallard (annotation, future considerations)
 
 ## Contents
 - __corpuses folder__ (configs, .spaCy, etc. for each pipeline)
@@ -21,7 +23,7 @@ Group 6's final project for DSBA 6188.
 
 ## Dataset
 - Domain: Banking compliance and risk
-- Possible applications: NER, semantic search, classification, policy 
+- Possible applications: NER, text mining, classification, policy, regulations 
 - eCFR Title 12 (https://github.com/ericphann/dsba6188-group6-project/tree/main/data)
 
 ## Processing
